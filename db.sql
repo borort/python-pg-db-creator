@@ -1,0 +1,3 @@
+/*
+Example SQL script
+*/
